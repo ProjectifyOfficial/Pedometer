@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android\github\Pedometer\src\main\jniLibs"/></dataSet><dataSet config="fdroid"><source path="D:\Android\github\Pedometer\src\fdroid\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Android\github\Pedometer\src\debug\jniLibs"/></dataSet><dataSet config="fdroidDebug"><source path="D:\Android\github\Pedometer\src\fdroidDebug\jniLibs"/></dataSet></merger>
